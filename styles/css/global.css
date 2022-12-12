@@ -41,7 +41,28 @@ nav.navbar-transparent {
   color: white; }
 
 #custom_nintendo h1 {
-  color: #be65e0; }
+  color: #eb1d1d; }
+
+#custom_xbox {
+  color: white; }
+  
+#custom_xbox h1 {
+  color: #3bf023; }
+
+#custom_playstation {
+  color: white; }
+  
+#custom_playstation h1 {
+  color: #2b99f3; }
+
+#custom_pc {
+  color: white; }
+    
+#custom_pc h1 {
+  color: #a54add; }
+
+#custom_pc h5 {
+  color: #bc65f3; }
 
 .custom_form {
   background: white;
