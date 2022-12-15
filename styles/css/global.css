@@ -32,6 +32,19 @@ nav.navbar-transparent {
   border-radius: 10px;
 }
 
+#background_custom {
+  padding: 15px 5px;
+  background: rgba(0, 0, 0, 0.9);
+  font-weight: 700;
+}
+#background_custom .dropdown-item {
+  color: white;
+}
+#background_custom .dropdown-item:hover {
+  background-color: #8b02df;
+  border-radius: 10px;
+}
+
 /* Estrutura conteúdos
  -----------------------------*/
 #jogos_gratuitos {
@@ -83,6 +96,10 @@ nav.navbar-transparent {
   color: #8b02df;
 }
 
+section {
+  margin: 10px;
+}
+
 /* Rodapé
  -----------------------------*/
 footer {
@@ -101,7 +118,7 @@ h1 {
   font-size: 2em;
   letter-spacing: -0.04em;
   margin-bottom: 10px;
-  color: white;
+  color: #bc65f3;
 }
 
 h2 {
