@@ -14,7 +14,7 @@ nav.navbar-transparent {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: white;
+  color: #f5f5f5;
 }
 
 .navbar-light .navbar-nav .nav-link:hover {
@@ -38,7 +38,7 @@ nav.navbar-transparent {
   font-weight: 700;
 }
 #background_custom .dropdown-item {
-  color: white;
+  color: #f5f5f5;
 }
 #background_custom .dropdown-item:hover {
   background-color: #8b02df;
@@ -52,32 +52,32 @@ nav.navbar-transparent {
 }
 
 #contato {
-  color: white;
+  color: #f5f5f5;
 }
 
 #custom_nintendo {
-  color: white;
+  color: #f5f5f5;
 }
 #custom_nintendo h1 {
   color: #eb1d1d;
 }
 
 #custom_xbox {
-  color: white;
+  color: #f5f5f5;
 }
 #custom_xbox h1 {
   color: #3bf023;
 }
 
 #custom_playstation {
-  color: white;
+  color: #f5f5f5;
 }
 #custom_playstation h1 {
   color: #2b99f3;
 }
 
 #custom_pc {
-  color: white;
+  color: #f5f5f5;
 }
 #custom_pc h1 {
   color: #bc65f3;
@@ -87,7 +87,7 @@ nav.navbar-transparent {
 }
 
 .custom_form {
-  background: white;
+  background: #f5f5f5;
   border: solid;
   color: #8b02df;
   font-weight: bold;
@@ -108,7 +108,7 @@ footer {
 }
 
 #rodape {
-  color: white;
+  color: #f5f5f5;
 }
 
 /* Tipografia
@@ -125,19 +125,19 @@ h2 {
   font-size: 1em;
   font-weight: 700;
   letter-spacing: -0.04em;
-  color: white;
+  color: #f5f5f5;
 }
 
 h3 {
   font-weight: 700;
   letter-spacing: -0.04em;
-  color: white;
+  color: #f5f5f5;
 }
 
 h4 {
   font-weight: 500;
   letter-spacing: -0.04em;
-  color: white;
+  color: #f5f5f5;
 }
 
 /*# sourceMappingURL=global.css.map */
