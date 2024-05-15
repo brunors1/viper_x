@@ -2,11 +2,26 @@
 
 # ViperX
 
-Projeto CoderHouse - Fins educativos/Por favor não comercializar.
+## Descrição
 
 Esse projeto foi criado a pedido do curso de Desenvolvimento Web na escola CODERHOUSE.
 
-Nesse projeto foi solicitado o uso apenas de HTML/CSS/BOOTSTRAP, sem a necessidade de um JS. Ele ainda pode sofrer algumas alterações mas já foi entregue e aprovado com sucesso.
+O tema do projeto era livre e por isso decidimos fazer uma página focada em jogos. Nesse projeto foi solicitado o uso de apenas HTML/CSS/BOOTSTRAP, sem a necessidade de um JS.
+
+## Tecnologias Utilizadas
+
+- Bootstrap: O framework CSS Bootstrap foi utilizado para agilizar o processo de desenvolvimento e garantir um layout responsivo e estilizado para o site.
+- HTML: A estrutura básica do site foi criada usando HTML (HyperText Markup Language).
+- CSS: Pequenas partes do estilo visual do site foi implementado usando CSS (Cascading Style Sheets).
+- FontAwesome: A biblioteca FontAwesome foi usada para adicionar ícones personalizados ao projeto.
+
+## Estrutura do Projeto
+
+O projeto ViperX possui a seguinte estrutura de diretórios:
+
+- `assets`: Contém as imagens utilizadas no site.
+- `pages`: Contém as demais páginas, fora o index.html
+- `styles`: Contém arquivos de estilo CSS personalizados.
 
 Criado por Bruno R Santos e Beatriz Toledo.
 
