@@ -1,5 +1,8 @@
 ![image](https://github.com/brunors1/viper_x/assets/117781967/733eef82-bf4e-42e7-bc4f-fc79498122fa)
 
+![image](https://github.com/brunors1/viper_x/assets/117781967/0b394a93-82da-44b5-990e-828a68d59c17)
+
+
 # ViperX
 
 ## Descrição
